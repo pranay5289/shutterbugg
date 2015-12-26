@@ -47,7 +47,7 @@
 }
 .slide1{
     color: #fff;
-    background-image: url("http://localhost/shutterbugg/img/slide1.jpg");
+    background-image: url("../img/slide1.jpg");
     background-size: cover;
     height: 640px;
 }
