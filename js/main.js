@@ -13,6 +13,6 @@ $(window).resize(function(){
     }
 });
     $("#showmenu").on('click', function(){
-        $(".ulmenu").toggle(400);
+        $(".ulmenu").stop().toggle(400);
     })
 })
